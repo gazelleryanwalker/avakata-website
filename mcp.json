@@ -8,8 +8,8 @@
       }
     },
     "framer-mcp-server": {
-      "url": "https://mcp.unframer.co/sse",
-      "description": "Framer MCP server for website editing and management",
+      "url": "https://mcp.unframer.co/sse?id=YOUR_PROJECT_ID&secret=YOUR_SECRET",
+      "description": "Framer MCP server for website editing and management. Replace YOUR_PROJECT_ID and YOUR_SECRET with your Framer MCP credentials.",
       "tools": [
         "getProjectXml",
         "getSelectedNodesXml",

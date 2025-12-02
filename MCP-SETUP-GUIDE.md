@@ -43,8 +43,10 @@ For repository management and GitHub operations.
 ### VS Code Setup
 
 1. Install the MCP extension for VS Code
-2. Copy `.vscode/mcp.json` settings
-3. Add your Framer project credentials to the URL
+2. Open `.vscode/mcp.json` in this repository
+3. Update the Framer URL with your project credentials:
+   - Replace `https://mcp.unframer.co/sse` with `https://mcp.unframer.co/sse?id=YOUR_PROJECT_ID&secret=YOUR_SECRET`
+4. The settings will be automatically loaded when you open the project in VS Code
 
 ### Codex CLI Setup
 
