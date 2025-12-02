@@ -1,0 +1,16 @@
+{
+  "mcp": {
+    "servers": {
+      "framer": {
+        "type": "sse",
+        "url": "https://mcp.unframer.co/sse?id=YOUR_PROJECT_ID&secret=YOUR_SECRET",
+        "description": "Framer MCP server for website design and editing. Replace YOUR_PROJECT_ID and YOUR_SECRET with your Framer MCP credentials. See MCP-SETUP-GUIDE.md for instructions."
+      },
+      "github": {
+        "type": "stdio",
+        "command": "npx",
+        "args": ["-y", "@modelcontextprotocol/server-github"]
+      }
+    }
+  }
+}
