@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Node / Gemini cache
+.gemini/
+node_modules/
+
+# Logs
+*.log
+
+# Framer cache/exports
+*.framercache

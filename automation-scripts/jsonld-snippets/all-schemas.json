@@ -1,0 +1,443 @@
+{
+  "organization": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Avakata",
+    "url": "https://avakata.agency",
+    "logo": "https://avakata.agency/images/avakata-logo.png",
+    "description": "Autonomous AI agents for revenue operations. We deploy self-managing marketing, sales, and SEO systems that scale revenue without scaling headcount.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Wellington",
+      "addressRegion": "FL",
+      "addressCountry": "US"
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "Ryan Walker"
+    },
+    "sameAs": [
+      "https://linkedin.com/company/avakata",
+      "https://twitter.com/avakata"
+    ]
+  },
+  "website": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Avakata",
+    "url": "https://avakata.agency",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://avakata.agency/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  "localBusiness": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Avakata",
+    "image": "https://avakata.agency/images/avakata-logo.png",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "Wellington",
+      "addressRegion": "FL",
+      "postalCode": "",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.6617",
+      "longitude": "-80.0533"
+    },
+    "url": "https://avakata.agency",
+    "telephone": "",
+    "priceRange": "$$$$",
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  },
+  "blogListing": {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Avakata Blog",
+    "description": "Insights on autonomous AI, revenue operations, and the future of digital marketing",
+    "url": "https://avakata.agency/blog",
+    "mainEntity": {
+      "@type": "Blog",
+      "name": "Avakata Blog",
+      "description": "Expert insights on AI-powered revenue operations"
+    }
+  },
+  "blogPosts": [
+    {
+      "slug": "semantic-seo-ai-agents-entity-relationships",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Semantic SEO: How AI Agents Map Entity Relationships",
+        "description": "Keywords are dead; entities are the new currency. Search engines now function as answer engines......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-11-01",
+        "dateModified": "2024-11-01",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/semantic-seo-ai-agents-entity-relationships"
+        },
+        "keywords": "Avakata, revenue operations, SEO, search engine optimization, AI, artificial intelligence, AI agents, autonomous agents",
+        "url": "https://avakata.agency/blog/semantic-seo-ai-agents-entity-relationships"
+      }
+    },
+    {
+      "slug": "autonomous-technical-seo-self-healing-sweeps",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Autonomous Technical SEO: Self-Healing Site Sweeps",
+        "description": "Traditional SEO involves monthly or quarterly audits. A human consultant runs a crawl......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-11-08",
+        "dateModified": "2024-11-08",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/autonomous-technical-seo-self-healing-sweeps"
+        },
+        "keywords": "Avakata, revenue operations, SEO, search engine optimization",
+        "url": "https://avakata.agency/blog/autonomous-technical-seo-self-healing-sweeps"
+      }
+    },
+    {
+      "slug": "predictive-ranking-forecasting-algorithm-shifts",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Predictive Ranking: Forecasting Algorithm Shifts",
+        "description": "Most SEOs react to Google Core Updates after they happen. They scramble to fix sites......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-11-15",
+        "dateModified": "2024-11-15",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/predictive-ranking-forecasting-algorithm-shifts"
+        },
+        "keywords": "Avakata, revenue operations, SEO, search engine optimization",
+        "url": "https://avakata.agency/blog/predictive-ranking-forecasting-algorithm-shifts"
+      }
+    },
+    {
+      "slug": "agentic-stack-orchestrating-multi-channel-autonomous-agents",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "The Agentic Stack: Orchestrating Multi-Channel Autonomous Agents",
+        "description": "We have moved beyond Chatbots to Agents. An agent has permission to do things......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-11-22",
+        "dateModified": "2024-11-22",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/agentic-stack-orchestrating-multi-channel-autonomous-agents"
+        },
+        "keywords": "Avakata, revenue operations, AI agents, autonomous agents",
+        "url": "https://avakata.agency/blog/agentic-stack-orchestrating-multi-channel-autonomous-agents"
+      }
+    },
+    {
+      "slug": "machine-learning-content-decay-auto-refreshing-backlog",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Machine Learning for Content Decay: Auto-Refreshing Your Backlog",
+        "description": "Content Decay occurs when older posts gradually lose traffic as they become outdated......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-11-29",
+        "dateModified": "2024-11-29",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/machine-learning-content-decay-auto-refreshing-backlog"
+        },
+        "keywords": "Avakata, revenue operations, content marketing, content strategy",
+        "url": "https://avakata.agency/blog/machine-learning-content-decay-auto-refreshing-backlog"
+      }
+    },
+    {
+      "slug": "beyond-keywords-llms-user-intent-modeling",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Beyond Keywords: Using LLMs for User Intent Modeling",
+        "description": "User Intent is why someone searches. Navigational, Informational, Transactional......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-12-06",
+        "dateModified": "2024-12-06",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/beyond-keywords-llms-user-intent-modeling"
+        },
+        "keywords": "Avakata, revenue operations",
+        "url": "https://avakata.agency/blog/beyond-keywords-llms-user-intent-modeling"
+      }
+    },
+    {
+      "slug": "generative-creative-multivariate-testing-scale",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Generative Creative: Multivariate Testing at Scale",
+        "description": "In traditional PPC, testing 10 different ad creatives requires a designer to make 10 different images......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-12-13",
+        "dateModified": "2024-12-13",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/generative-creative-multivariate-testing-scale"
+        },
+        "keywords": "Avakata, revenue operations, PPC, paid advertising",
+        "url": "https://avakata.agency/blog/generative-creative-multivariate-testing-scale"
+      }
+    },
+    {
+      "slug": "real-time-bid-optimization-ai-agents-maximize-roas",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Real-Time Bid Optimization: How AI Agents Maximize ROAS Every Second",
+        "description": "Manual bid management is dead. By the time a human analyzes yesterday's data and adjusts bids......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-12-20",
+        "dateModified": "2024-12-20",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/real-time-bid-optimization-ai-agents-maximize-roas"
+        },
+        "keywords": "Avakata, revenue operations, AI, artificial intelligence, AI agents, autonomous agents",
+        "url": "https://avakata.agency/blog/real-time-bid-optimization-ai-agents-maximize-roas"
+      }
+    },
+    {
+      "slug": "cro-automation-always-on-ab-testing",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "CRO Automation: Always-On A/B Testing Without Human Intervention",
+        "description": "Conversion Rate Optimization (CRO) is traditionally a slow, manual process......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2024-12-27",
+        "dateModified": "2024-12-27",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/cro-automation-always-on-ab-testing"
+        },
+        "keywords": "Avakata, revenue operations, CRO, conversion optimization",
+        "url": "https://avakata.agency/blog/cro-automation-always-on-ab-testing"
+      }
+    },
+    {
+      "slug": "generative-chat-agents-inbound-lead-qualification",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Generative Chat Agents: Inbound Lead Qualification on Autopilot",
+        "description": "Most inbound leads are tire-kickers. Your sales team wastes hours on discovery calls......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2025-01-03",
+        "dateModified": "2025-01-03",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/generative-chat-agents-inbound-lead-qualification"
+        },
+        "keywords": "Avakata, revenue operations, AI agents, autonomous agents",
+        "url": "https://avakata.agency/blog/generative-chat-agents-inbound-lead-qualification"
+      }
+    },
+    {
+      "slug": "predictive-analytics-forecasting-revenue-machine-learning",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Predictive Analytics: Forecasting Revenue with Machine Learning",
+        "description": "Most businesses look at historical data to make decisions. Last quarter, we did X......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2025-01-10",
+        "dateModified": "2025-01-10",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/predictive-analytics-forecasting-revenue-machine-learning"
+        },
+        "keywords": "Avakata, revenue operations, analytics, predictive analytics",
+        "url": "https://avakata.agency/blog/predictive-analytics-forecasting-revenue-machine-learning"
+      }
+    },
+    {
+      "slug": "marketing-mix-modeling-ai-powered-budget-allocation",
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Marketing Mix Modeling: AI-Powered Budget Allocation Across Channels",
+        "description": "Most marketers allocate budgets based on gut feel or last year's spend......",
+        "author": {
+          "@type": "Person",
+          "name": "Ryan Walker",
+          "url": "https://avakata.agency"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Avakata",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://avakata.agency/images/avakata-logo.png"
+          }
+        },
+        "datePublished": "2025-01-17",
+        "dateModified": "2025-01-17",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://avakata.agency/blog/marketing-mix-modeling-ai-powered-budget-allocation"
+        },
+        "keywords": "Avakata, revenue operations, AI, artificial intelligence, CRO, conversion optimization, digital marketing, marketing automation",
+        "url": "https://avakata.agency/blog/marketing-mix-modeling-ai-powered-budget-allocation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "avakata-framer-automation",
+  "version": "1.0.0",
+  "description": "Automation scripts for Avakata Framer rebrand",
+  "scripts": {
+    "generate-metadata": "node generate-blog-metadata.js",
+    "generate-components": "node generate-components.js",
+    "inject-jsonld": "node inject-jsonld.js",
+    "build-all": "npm run generate-metadata && npm run generate-components && npm run inject-jsonld"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
