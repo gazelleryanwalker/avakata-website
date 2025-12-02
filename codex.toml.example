@@ -1,0 +1,34 @@
+# Codex CLI MCP Configuration
+# Copy this file to ~/.codex.toml and fill in your credentials
+
+# Framer MCP Server for website editing
+[mcp_servers.framer]
+type = "sse"
+url = "https://mcp.unframer.co/sse"
+# Add your project ID and secret as query parameters:
+# url = "https://mcp.unframer.co/sse?id=YOUR_PROJECT_ID&secret=YOUR_SECRET"
+
+# GitHub MCP Server for repository operations
+[mcp_servers.github]
+type = "stdio"
+command = "npx"
+args = ["-y", "@modelcontextprotocol/server-github"]
+# Requires GITHUB_TOKEN environment variable
+
+# Project-specific settings
+[project]
+name = "avakata-website"
+description = "Avakata Pit Boss - Autonomous AI Revenue Operations Platform"
+
+# Available services to document
+[project.services]
+ai_integration = "AI Integration"
+ppc_management = "PPC Management"
+seo = "SEO 3.0"
+cro = "CRO Automation"
+analytics = "Predictive Analytics & BI"
+
+# Integration endpoints
+[integrations]
+zoho_booking = "https://avakata.zohobookings.com/#/customer/avakata"
+domain = "avakata.agency"

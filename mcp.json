@@ -1,0 +1,59 @@
+{
+  "mcpServers": {
+    "github-mcp-server": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "framer-mcp-server": {
+      "url": "https://mcp.unframer.co/sse",
+      "description": "Framer MCP server for website editing and management",
+      "tools": [
+        "getProjectXml",
+        "getSelectedNodesXml",
+        "zoomIntoView",
+        "getNodeXml",
+        "updateXmlForNode",
+        "manageColorStyle",
+        "manageTextStyle",
+        "searchFonts",
+        "deleteNode",
+        "duplicateNode",
+        "exportReactComponents",
+        "createCodeFile",
+        "readCodeFile",
+        "updateCodeFile",
+        "getComponentInsertUrlAndTypes",
+        "getProjectWebsiteUrl",
+        "getCMSCollections",
+        "getCMSItems",
+        "upsertCMSItem",
+        "deleteCMSItem"
+      ]
+    }
+  },
+  "projectSettings": {
+    "name": "Avakata Website",
+    "description": "Avakata Pit Boss - Autonomous AI Revenue Operations Platform",
+    "domain": "avakata.agency",
+    "services": [
+      "AI Integration",
+      "PPC Management", 
+      "SEO 3.0",
+      "CRO Automation",
+      "Predictive Analytics & BI"
+    ],
+    "contact": {
+      "phone": "(888) 330-9410",
+      "location": "Wellington, Florida"
+    }
+  },
+  "integration": {
+    "zohoBooking": "https://avakata.zohobookings.com/#/customer/avakata",
+    "zohoCRM": true,
+    "zohoChat": true,
+    "zohoAnalytics": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mcp": {
+    "servers": {
+      "framer": {
+        "type": "sse",
+        "url": "https://mcp.unframer.co/sse",
+        "description": "Framer MCP server for website design and editing"
+      },
+      "github": {
+        "type": "stdio",
+        "command": "npx",
+        "args": ["-y", "@modelcontextprotocol/server-github"]
+      }
+    }
+  }
+}
