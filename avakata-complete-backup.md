@@ -22,7 +22,7 @@
 - **Colors:** Black background, Avocado Green (rgb(139, 195, 74)), White text
 - **Phone:** (888) 330-9410
 - **Location:** Wellington, Florida
-- **Email:** hello@avakata.ai, partners@avakata.ai
+- **Email:** hello@avakata.agency, partners@avakata.agency
 
 ### Technical Requirements:
 1. **Call button in header** on every page: (888) 330-9410

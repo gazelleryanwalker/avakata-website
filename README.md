@@ -16,7 +16,7 @@ Agentic, autonomous AI that forecasts ROI and self-corrects live. Built by the t
 ## Contact
 - Phone: (888) 330-9410
 - Location: Wellington, Florida
-- Website: avakata.ai
+- Website: avakata.agency
 
 ## Technology Stack
 - Framer (Design & Deployment)

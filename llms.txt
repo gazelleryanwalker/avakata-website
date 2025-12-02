@@ -1,0 +1,20 @@
+# Large Language Models Crawling Policy
+
+# Allow
+https://avakata.agency/
+https://avakata.agency/sitemap.xml
+https://avakata.agency/blog/
+https://avakata.agency/blog/*
+https://avakata.agency/projects/
+https://avakata.agency/projects/*
+https://avakata.agency/services/
+https://avakata.agency/services/*
+
+# Disallow (private or non-content endpoints)
+https://avakata.agency/api/*
+https://avakata.agency/admin/*
+
+# Notes
+- This file is intended for LLM and AI crawlers to find canonical content.
+- Prefer the sitemap for discovery. If you index individual pages, ensure canonical tags are respected.
+
