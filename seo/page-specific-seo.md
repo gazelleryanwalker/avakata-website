@@ -28,7 +28,7 @@ Ready-to-paste snippets for each page in Framer (Site Settings → SEO or Custom
   "@type": "Organization",
   "name": "Avakata Agency",
   "url": "https://avakata.agency",
-  "logo": "https://avakata.agency/logo.png",
+  "logo": "https://avakata.agency/logo.svg",
   "description": "Autonomous AI agents for marketing automation, SEO, PPC, and CRO optimization.",
   "sameAs": [
     "https://www.youtube.com/@avakata",
@@ -218,7 +218,7 @@ Ready-to-paste snippets for each page in Framer (Site Settings → SEO or Custom
     "name": "Avakata Agency",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://avakata.agency/logo.png"
+      "url": "https://avakata.agency/logo.svg"
     }
   },
   "mainEntityOfPage": {

@@ -88,9 +88,9 @@ Description: Proof of autonomous profit. Real results: +126% revenue increase, 3
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Avakata",
+  "name": "Avakata Agency",
   "url": "https://avakata.agency",
-  "logo": "https://avakata.agency/logo.png",
+  "logo": "https://avakata.agency/logo.svg",
   "description": "Autonomous AI revenue operations platform providing 24/7 PPC management, SEO optimization, and CRO automation",
   "address": {
     "@type": "PostalAddress",

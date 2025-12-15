@@ -138,7 +138,7 @@ All combinations pass WCAG AA (4.5:1 minimum). Safe to use.
    - Verify responsive views
    - Test hover states on links/buttons
 
-## 9. Find & Replace "avakata.ai"
+## 9. Find & Replace Old Domain
 
 **Search Across All Pages:**
 
@@ -165,7 +165,7 @@ All combinations pass WCAG AA (4.5:1 minimum). Safe to use.
 - [ ] Blog listing heading in blue
 - [ ] Blog post headings in blue
 - [ ] All pages checked for hardcoded colors
-- [ ] "avakata.ai" replaced with "avakata.agency" everywhere
+- [ ] Old domain references updated to `avakata.agency` everywhere
 - [ ] Links use blue accent color
 - [ ] Button contrast verified
 - [ ] Tested in preview mode

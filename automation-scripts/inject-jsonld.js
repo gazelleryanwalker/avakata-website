@@ -26,9 +26,9 @@ if (fs.existsSync(metadataPath)) {
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Avakata",
+  "name": "Avakata Agency",
   "url": "https://avakata.agency",
-  "logo": "https://avakata.agency/images/avakata-logo.png",
+  "logo": "https://avakata.agency/logo.svg",
   "description": "Autonomous AI agents for revenue operations. We deploy self-managing marketing, sales, and SEO systems that scale revenue without scaling headcount.",
   "address": {
     "@type": "PostalAddress",
@@ -49,7 +49,7 @@ const organizationSchema = {
 const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "Avakata",
+  "name": "Avakata Agency",
   "url": "https://avakata.agency",
   "potentialAction": {
     "@type": "SearchAction",
@@ -61,8 +61,8 @@ const websiteSchema = {
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Avakata",
-  "image": "https://avakata.agency/images/avakata-logo.png",
+  "name": "Avakata Agency",
+  "image": "https://avakata.agency/logo.svg",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "",
@@ -103,10 +103,10 @@ function generateBlogPostingSchemas() {
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Avakata",
+        "name": "Avakata Agency",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://avakata.agency/images/avakata-logo.png"
+          "url": "https://avakata.agency/logo.svg"
         }
       },
       "datePublished": meta.publishedDate,
@@ -125,12 +125,12 @@ function generateBlogPostingSchemas() {
 const blogListingSchema = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Avakata Blog",
+  "name": "Avakata Agency Blog",
   "description": "Insights on autonomous AI, revenue operations, and the future of digital marketing",
   "url": "https://avakata.agency/blog",
   "mainEntity": {
     "@type": "Blog",
-    "name": "Avakata Blog",
+    "name": "Avakata Agency Blog",
     "description": "Expert insights on AI-powered revenue operations"
   }
 };
