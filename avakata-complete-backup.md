@@ -17,7 +17,7 @@
 7. **Logo embedded in imagery** - consider embedding Avakata logo on people's shirts in images
 
 ### Branding:
-- **Company:** Avakata / Avakata.ai
+- **Company:** Avakata / Avakata Agency (avakata.agency)
 - **Tagline:** "Avakata Pit Boss: your revenue on autopilot."
 - **Colors:** Black background, Avocado Green (rgb(139, 195, 74)), White text
 - **Phone:** (888) 330-9410
@@ -42,7 +42,7 @@
 
 ### Site-Wide:
 ✅ Call button added to Primary Navigation Bar: (888) 330-9410 → tel:+18883309410
-✅ Logo changed from "Palmer®" to "AVAKATA.AI" with green square icon
+✅ Logo changed from "Palmer®" to "AVAKATA.AGENCY" with green square icon
 ✅ Navigation text made white (/Nav Text White text style created)
 ✅ Static Navigation Bar fixed: all gray text → white text
 ✅ Location changed: "Tokyo" → "Wellington, Florida"
@@ -115,7 +115,7 @@
 
 ### Phase 2: Brand & Navigation (Priority 1)
 1. Update Primary Navigation Bar:
-   - Logo: "AVAKATA.AI" with green icon
+   - Logo: "AVAKATA.AGENCY" with green icon
    - White text navigation
    - Call button: (888) 330-9410 in top right
 2. Update Static Navigation Bar (interior pages):

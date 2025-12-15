@@ -2,9 +2,9 @@
   "organization": {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "Avakata",
+    "name": "Avakata Agency",
     "url": "https://avakata.agency",
-    "logo": "https://avakata.agency/images/avakata-logo.png",
+    "logo": "https://avakata.agency/logo.svg",
     "description": "Autonomous AI agents for revenue operations. We deploy self-managing marketing, sales, and SEO systems that scale revenue without scaling headcount.",
     "address": {
       "@type": "PostalAddress",
@@ -24,7 +24,7 @@
   "website": {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Avakata",
+    "name": "Avakata Agency",
     "url": "https://avakata.agency",
     "potentialAction": {
       "@type": "SearchAction",
@@ -35,8 +35,8 @@
   "localBusiness": {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Avakata",
-    "image": "https://avakata.agency/images/avakata-logo.png",
+    "name": "Avakata Agency",
+    "image": "https://avakata.agency/logo.svg",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "",
@@ -69,12 +69,12 @@
   "blogListing": {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Avakata Blog",
+    "name": "Avakata Agency Blog",
     "description": "Insights on autonomous AI, revenue operations, and the future of digital marketing",
     "url": "https://avakata.agency/blog",
     "mainEntity": {
       "@type": "Blog",
-      "name": "Avakata Blog",
+      "name": "Avakata Agency Blog",
       "description": "Expert insights on AI-powered revenue operations"
     }
   },
@@ -93,10 +93,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-11-01",
@@ -123,10 +123,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-11-08",
@@ -153,10 +153,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-11-15",
@@ -183,10 +183,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-11-22",
@@ -213,10 +213,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-11-29",
@@ -243,10 +243,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-12-06",
@@ -273,10 +273,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-12-13",
@@ -303,10 +303,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-12-20",
@@ -333,10 +333,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2024-12-27",
@@ -363,10 +363,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2025-01-03",
@@ -393,10 +393,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2025-01-10",
@@ -423,10 +423,10 @@
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Avakata",
+          "name": "Avakata Agency",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://avakata.agency/images/avakata-logo.png"
+            "url": "https://avakata.agency/logo.svg"
           }
         },
         "datePublished": "2025-01-17",

@@ -31,8 +31,8 @@
 - Z-index: 10 (below nav but above content)
 
 **Domain References:**
-- Find all text containing "avakata.ai"
-- Replace with "avakata.agency"
+- Find all text containing the old domain
+- Replace with `avakata.agency`
 - Check: Hero, About, Footer, any CTAs
 
 ### 3. Cube Animation Behavior
@@ -146,7 +146,7 @@ Add Organization and WebSite schemas (from `seo/core-pages-jsonld.md`):
 - [ ] Services section moved below About
 - [ ] All headings use #63B3ED color
 - [ ] AV watermark in top-left (subtle, 0.15 opacity)
-- [ ] All "avakata.ai" → "avakata.agency"
+- [ ] Old domain references updated to `avakata.agency`
 - [ ] Cube links to /projects with hover effects
 - [ ] Meta tags and JSON-LD added to Page Head
 - [ ] Responsive breakpoints verified

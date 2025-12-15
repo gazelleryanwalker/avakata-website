@@ -28,9 +28,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Avakata",
+  "name": "Avakata Agency",
   "url": "https://avakata.agency",
-  "logo": "https://avakata.agency/logo.png",
+  "logo": "https://avakata.agency/logo.svg",
   "description": "Autonomous AI revenue operations platform providing 24/7 PPC management, SEO optimization, and CRO automation",
   "address": {
     "@type": "PostalAddress",
@@ -85,7 +85,7 @@
   "serviceType": "Autonomous PPC Management",
   "provider": {
     "@type": "Organization",
-    "name": "Avakata"
+    "name": "Avakata Agency"
   },
   "description": "Real-time bid, budget, and audience updates with AI agents. +34% CVR, −22% CPA, +41% CTR.",
   "areaServed": "US"
@@ -107,8 +107,8 @@
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Avakata",
-  "image": "https://avakata.agency/logo.png",
+  "name": "Avakata Agency",
+  "image": "https://avakata.agency/logo.svg",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "8729 Pinion Drive",

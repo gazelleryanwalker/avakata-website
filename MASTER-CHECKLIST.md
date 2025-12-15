@@ -57,7 +57,7 @@ Follow `implementation-guides/05-text-styles-colors.md`:
    - `/Heading 1` → color = `/Brand/Accent`
    - `/Heading 2` → color = `/Brand/Accent`
    - `/Heading 3` → color = `/Brand/Accent`
-3. Find & replace all "avakata.ai" with "avakata.agency"
+3. Find & replace all legacy-domain references with `avakata.agency`
 
 ### Phase 3: Home Page Fixes (20 min)
 
@@ -183,7 +183,8 @@ Follow `implementation-guides/03-blog-post-template.md`:
 - [ ] All headings display in #63B3ED blue
 - [ ] Home page sections centered and Services moved
 - [ ] AV watermark visible (subtle)
-- [ ] No "avakata.ai" references remain
+- [ ] No legacy-domain references remain
+- [ ] All domain references updated to `avakata.agency`
 - [ ] Cube links to /projects
 - [ ] Global CTA component present on Home and blog posts
 - [ ] Blog listing page displays 12 posts in grid

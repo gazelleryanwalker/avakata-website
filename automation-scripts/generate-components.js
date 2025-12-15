@@ -46,10 +46,10 @@ export default function BlogPostTemplate(props: BlogPostTemplateProps) {
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Avakata",
+        "name": "Avakata Agency",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://avakata.agency/images/avakata-logo.png"
+          "url": "https://avakata.agency/logo.svg"
         }
       },
       "datePublished": publishedDate,

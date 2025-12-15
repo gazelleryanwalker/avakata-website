@@ -16,7 +16,7 @@ I've activated all the Framer MCP tools and created a **complete, step-by-step i
 - **02-blog-listing-page.md** - Blog grid layout, CMS bindings, pagination, schema
 - **03-blog-post-template.md** - Post template, dynamic bindings, rich content styling, JSON-LD
 - **04-global-cta-component.md** - Reusable CTA with Zoho booking link
-- **05-text-styles-colors.md** - Update all heading colors to #63B3ED, find/replace avakata.ai
+- **05-text-styles-colors.md** - Update all heading colors to #63B3ED, update legacy-domain references
 
 Each guide contains:
 
@@ -64,7 +64,7 @@ All placeholders are clearly marked (e.g., `{Title}`, `{Image}`, `{Published Dat
 2. **Update Colors & Text Styles** (10 min)
    - Create `/Brand/Accent` = `#63B3ED`
    - Update `/Heading 1`, `/Heading 2`, `/Heading 3` colors
-   - Replace "avakata.ai" → "avakata.agency"
+   - Update legacy-domain references to `avakata.agency`
 
 3. **Fix Home Page** (20 min)
    - Center all sections

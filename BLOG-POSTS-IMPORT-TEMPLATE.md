@@ -297,14 +297,14 @@ After importing, add this JSON-LD schema to each blog post page (in Page Setting
   "description": "[META DESCRIPTION]",
   "author": {
     "@type": "Organization",
-    "name": "Avakata.ai"
+    "name": "Avakata Agency"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Avakata.ai",
+    "name": "Avakata Agency",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://avakata.agency/logo.png"
+      "url": "https://avakata.agency/logo.svg"
     }
   },
   "datePublished": "[PUBLISH DATE in ISO format]",

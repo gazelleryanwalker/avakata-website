@@ -60,7 +60,7 @@ Your Blog collection needs 3 more fields:
 2. Follow the steps to:
    - Create `/Brand/Accent` color (#63B3ED)
    - Update `/Heading 1`, `/Heading 2`, `/Heading 3` to use new color
-   - Search for "avakata.ai" and replace with "avakata.agency"
+   - Search for legacy-domain references and update to `avakata.agency`
 
 ### Step 3: Fix Home Page (20 min)
 
